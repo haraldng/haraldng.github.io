@@ -1,0 +1,46 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Position the profile picture to the right */
+    width: 100%;
+}
+
+.header-title-links {
+    display: flex;
+    flex-direction: column;
+}
+
+.header-title {
+    font-size: 2.5em; /* Adjust title size as needed */
+    margin: 0;
+}
+
+.links {
+    display: flex;
+    gap: 10px; /* Space between links */
+    margin-top: 5px; /* Slight separation from the title */
+}
+
+.profile-picture {
+    width: 120px; /* Increase size */
+    height: 120px;
+    border-radius: 50%;
+    margin-left: 20px; /* Space between picture and title-links container */
+}
+
+.two-column-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px; /* Adjust spacing between rows */
+}
+
+.date {
+    width: 15%; /* Width for the date column */
+    font-weight: bold;
+    padding-right: 10px; /* Space between date and text */
+}
+
+.text {
+    width: 85%; /* Width for the text column */
+}
+

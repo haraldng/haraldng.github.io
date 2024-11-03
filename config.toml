@@ -1,0 +1,79 @@
+baseURL = 'https://haraldng.github.io/'
+languageCode = 'en-us'
+title = 'Harald Ng'
+theme = 'typo'
+
+[taxonomies]
+tag = 'tags'
+
+# Google analytics code
+googleAnalytics = "G-xxxxxxxxx"
+
+[params]
+# Meta description
+description = "A Tech Blog"
+profilePicture = "images/profile.jpg"
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = """Hi, I'm Harald!"""
+homeIntroContent = """
+I am a fourth year Ph.D. student in the Data Systems Lab at KTH Royal Institute Technology, advised by [Paris Carbone](https://people.kth.se/~parisc/) and [Seif Haridi](https://people.kth.se/~haridi/). My research focuses on consensus and transactions in distributed systems. More specifically, I aim to make protocols more efficient by leveraging practical aspects such as the application workload and network. I am the creator of the [OmniPaxos](https://omnipaxos.com) project. I have previously interned at  [FIS Global](https://www.fisglobal.com/) and [RISE Research Institutes of Sweden](https://www.ri.se/en).
+"""
+
+# Collection to display on home
+#homeCollectionTitle = 'Latest News'
+#homeCollection = 'news'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+breadcrumbs = true
+
+# Social icons
+[[params.social]]
+name = "twitter"
+url = "https://x.com/haraldng"
+
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/user/harald-ng"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/user/haraldng"
+
+[[params.social]]
+name = "google"
+url = "https://scholar.google.ca/citations?user=wS6BD3MAAAAJ"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+#[[params.menu]]
+#name = "about"
+#url = "/about"
+
+# Syntax highligth on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"
