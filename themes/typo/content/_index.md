@@ -4,9 +4,9 @@ draft = false
 +++
 
 # Latest News
-{{< two-column-row date="Jul 2024" text="Gave talk on <i>Leveraging Practical Aspects in Consensus</i> at Google Sunnyvale" >}}
-{{< two-column-row date="Apr 2024" text="Started research visit at <a href='https://sky.cs.berkeley.edu/' target='_blank'>Sky Lab</a> of UC Berkeley, hosted by <a href='https://dsf.berkeley.edu/jmh/' target='_blank'>Joe Hellerstein</a>" >}}
-{{< two-column-row date="Sep 2023" text="OmniPaxos was integrated to the syllabus of <a href='https://www.bu.edu/academics/cas/courses/cas-cs-651/' target='_blank'>CS651</a> at Boston University">}}
+{{< two-column-row date="Jul 2024" text="Gave a talk on <i>Leveraging Practical Aspects for Efficient Consensus</i> at Google's Sunnyvale campus" >}}
+{{< two-column-row date="Apr 2024" text="Began research visit at <a href='https://sky.cs.berkeley.edu/' target='_blank'>Sky Lab</a> of UC Berkeley, hosted by Prof. <a href='https://dsf.berkeley.edu/jmh/' target='_blank'>Joe Hellerstein</a>" >}}
+{{< two-column-row date="Sep 2023" text="OmniPaxos was added to the course syllabus of <a href='https://www.bu.edu/academics/cas/courses/cas-cs-651/' target='_blank'>CS651</a> at Boston University">}}
 {{< two-column-row date="May 2023" text="<a href='https://dl.acm.org/doi/pdf/10.1145/3552326.3587441' target='_blank'>OmniPaxos</a> was published at EuroSys'23" >}}
 {{< two-column-row date="Mar 2023" text="<a href='https://openproceedings.org/2023/conf/edbt/3-paper-117.pdf' target='_blank'>UniCache</a> was published at EDBT'23" >}}
 
