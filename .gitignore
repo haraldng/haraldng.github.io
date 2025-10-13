@@ -1,3 +1,7 @@
 
 .hugo_build.lock
-public/.DS_Store
+/.idea
+*.DS_Store
+themes/.DS_Store
+static/.DS_Store
+.DS_Store

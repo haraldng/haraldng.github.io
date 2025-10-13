@@ -4,6 +4,8 @@ draft = false
 +++
 
 # Latest News
+{{< two-column-row date="Oct 2025" text="Paper on <i>Event Horizon: Asymmetric Dependencies for Fast Geo-Distributed Operations</i> was accepted at CIDR'26." >}}
+{{< two-column-row date="Jun 2025" text="Joined Google as a Software Engineer Intern in the Spanner team." >}}
 {{< two-column-row date="Jul 2024" text="Gave a talk on <i>Leveraging Practical Aspects for Efficient Consensus</i> at Google's Sunnyvale campus" >}}
 {{< two-column-row date="Apr 2024" text="Began research visit at <a href='https://sky.cs.berkeley.edu/' target='_blank'>Sky Lab</a> of UC Berkeley, hosted by Prof. <a href='https://dsf.berkeley.edu/jmh/' target='_blank'>Joe Hellerstein</a>" >}}
 {{< two-column-row date="Sep 2023" text="OmniPaxos was added to the course syllabus of <a href='https://www.bu.edu/academics/cas/courses/cas-cs-651/' target='_blank'>CS651</a> at Boston University">}}
