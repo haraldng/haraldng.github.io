@@ -14,6 +14,11 @@ draft = false
 
 
 # Publications
+**Event Horizon: Asymmetric Dependencies for Fast Geo-Distributed Operations** \
+Jonathan Arns, **Harald Ng**, Kyriakos Psarakis, Asterios Katsifodimos, Paris Carbone\
+CIDR'26
+
+
 **Omni-Paxos: Breaking the Barriers of Partial Connectivity** \
 **Harald Ng**, Seif Haridi, Paris Carbone\
 EuroSys'23 ([pdf](https://dl.acm.org/doi/pdf/10.1145/3552326.3587441))([website](https://omnipaxos.com))
