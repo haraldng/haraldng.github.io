@@ -22,7 +22,7 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = """Hi, I'm Harald!"""
 homeIntroContent = """
-I am a fifth year Ph.D. student in the Data Systems Lab at KTH Royal Institute Technology, advised by [Paris Carbone](https://people.kth.se/~parisc/) and [Seif Haridi](https://people.kth.se/~haridi/). My research focuses on consensus and transactions in distributed systems. More specifically, I aim to make protocols more efficient by leveraging practical aspects such as the application workload and network. I am the creator of the [OmniPaxos](https://omnipaxos.com) project. I have previously interned at Google, [FIS Global](https://www.fisglobal.com/), and [RISE Research Institutes of Sweden](https://www.ri.se/en).
+I am a fifth year Ph.D. student in the Data Systems Lab at KTH Royal Institute Technology, advised by [Paris Carbone](https://people.kth.se/~parisc/) and [Seif Haridi](https://people.kth.se/~haridi/). My research focuses on consensus and transactions in distributed systems. More specifically, I aim to make protocols more efficient by leveraging practical aspects such as the application workload and network. I am the creator of the [OmniPaxos](https://omnipaxos.com) project. I have previously interned at [Google Cloud (Spanner)](https://cloud.google.com/spanner?hl=en), [FIS Global](https://www.fisglobal.com/), and [RISE Research Institutes of Sweden](https://www.ri.se/en).
 """
 
 # Collection to display on home
